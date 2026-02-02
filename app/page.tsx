@@ -75,7 +75,7 @@ export default function Home() {
       {/* HERO */}
       <section className="h-screen flex flex-col justify-center items-center relative z-10 px-4">
         <motion.div style={{ y: yText, opacity: opacityText }} className="text-center">
-          <h2 className="text-sm md:text-xl font-light mb-6 tracking-[0.3em] text-salma-blue uppercase">To: Salmahita Aditya Pradilla</h2>
+          <h2 className="text-sm md:text-xl font-light mb-6 tracking-[0.3em] text-salma-blue uppercase">To: Salmahita Ataya Pradilla</h2>
           <h1 className="text-6xl md:text-9xl font-extrabold bg-clip-text text-transparent bg-gradient-to-br from-pink-300 via-purple-300 to-indigo-300 leading-tight drop-shadow-sm">
             It's Been<br />a Journey.
           </h1>
